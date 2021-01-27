@@ -1,9 +1,7 @@
-![Header](https://github.com/SergeyMMedvedev/sergeyMMedvedev/blob/main/asserts/shahadat-rahman-BfrQnKBulYQ-unsplash_3.jpg)
-
-
 ### Приветствую!
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyMMedvedev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyMMedvedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-464646??style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-react-464646??style=flat-square&logo=react)
