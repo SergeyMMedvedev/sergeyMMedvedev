@@ -1,7 +1,5 @@
 ### Приветствую!
-h2()>.
 
-(ываыва)p<>.(sadf)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-464646??style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-react-464646??style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-464646??style=flat-square&logo=Node.js)
@@ -18,8 +16,4 @@ h2()>.
 ![GitHub](https://img.shields.io/badge/-GitHub-464646??style=flat-square&logo=GitHub)
 
 
-<p align="justify">
-  Lorem ipsum
-</p>
 
-<center>Centered text</center>
