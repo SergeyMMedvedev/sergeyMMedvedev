@@ -1,4 +1,9 @@
+![Header]()
+
+
 ### Приветствую!
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-464646??style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-react-464646??style=flat-square&logo=react)
@@ -15,6 +20,3 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-464646??style=flat-square&logo=SQLite)
 ![GitHub](https://img.shields.io/badge/-GitHub-464646??style=flat-square&logo=GitHub)
 
-
-<div style="justify-content: center">asdf</div>
-<em class="a1">italic</em> и это тоже <i class="a1">italic</i>. А вот так уже <b>strong</b>, и так тоже <strong>strong</strong>.
