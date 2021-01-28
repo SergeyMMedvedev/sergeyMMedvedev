@@ -1,4 +1,4 @@
-![Header](https://github.com/SergeyMMedvedev/sergeyMMedvedev/blob/main/asserts/book_v3.png)
+![Header](https://github.com/SergeyMMedvedev/sergeyMMedvedev/blob/main/asserts/book_v4.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeyMMedvedev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyMMedvedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
