@@ -19,3 +19,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-464646??style=flat-square&logo=GitHub)](https://github.com/)
 [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646??style=flat-square&logo=GitHub%20actions)](https://github.com/features/actions)
 [![NGINX](https://img.shields.io/badge/-NGINX-464646??style=flat-square&logo=NGINX)](https://nginx.org/ru/)
+
+<a href="https://www.codewars.com/users/OctopussyO" target="_blank">
+  <img src="https://www.codewars.com/users/OctopussyO/badges/micro" alt="Codewars"/>
+</a></br>
