@@ -21,5 +21,5 @@
 [![NGINX](https://img.shields.io/badge/-NGINX-464646??style=flat-square&logo=NGINX)](https://nginx.org/ru/)
 
 <a href="https://www.codewars.com/users/OctopussyO" target="_blank">
-  <img src="https://www.codewars.com/users/OctopussyO/badges/micro" alt="Codewars"/>
+  <img src="https://www.codewars.com/users/medvedevsm1989/badges/micro" alt="Codewars"/>
 </a></br>
