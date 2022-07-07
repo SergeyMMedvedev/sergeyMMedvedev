@@ -20,10 +20,12 @@
 [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646??style=flat-square&logo=GitHub%20actions)](https://github.com/features/actions)
 [![NGINX](https://img.shields.io/badge/-NGINX-464646??style=flat-square&logo=NGINX)](https://nginx.org/ru/)
 
+<div style="display: flex;align-items:center">
 <a href="https://www.codewars.com/users/medvedevsm1989" target="_blank">
   <img src="https://www.codewars.com/users/medvedevsm1989/badges/micro" alt="Codewars"/>
 </a></br>
 
 <a href="https://www.hackerrank.com/medvedevsm1989" target="_blank">
-  <iframe src="https://hackerrank-badge.herokuapp.com/SergeyMMedvedev?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
 </a></br>
+<div>
