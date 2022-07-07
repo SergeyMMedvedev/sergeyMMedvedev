@@ -23,9 +23,8 @@
 <div style="display: flex;align-items:center">
 <a href="https://www.codewars.com/users/medvedevsm1989" target="_blank">
   <img src="https://www.codewars.com/users/medvedevsm1989/badges/micro" alt="Codewars"/>
-</a></br>
-
+</a>
 <a href="https://www.hackerrank.com/medvedevsm1989" target="_blank">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
-</a></br>
+</a>
 <div>
